@@ -87,6 +87,11 @@ article img {
     height: 300px;
 }
 
+section img {
+    width: 50px;
+    height: 50px;
+}
+
 footer {
     text-align: center;
     font-size: 14px;
